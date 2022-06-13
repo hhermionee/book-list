@@ -1,6 +1,8 @@
 Демо-страница для редактирования списка книг.
 Сделано с помощью React, использованы React hooks.
 
+Посмотреть демо: https://hhermionee.github.io/book-list/
+
 - [x] Книги хранятся в localStorage
 - [x] Книги выгружаются из localStorage
 
