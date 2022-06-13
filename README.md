@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+Демо-страница для редактирования списка книг.
+Сделано с помощью React, использованы React hooks.
+
+- [ ] Книги хранятся в localStorage
+- [ ] Книги выгружаются из localStorage
+Страница должна позволять:
+- [ ] создавать
+- [ ] редактировать
+- [ ] удалять книги
+- [ ] отображать список книг
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
